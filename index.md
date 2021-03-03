@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# THE KNOWLEDGE CAMPAIGN 
+
+![1K ALL_PRO_SYFER_](https://img.shields.io/badge/1K-ALL_PRO_SYFER_-red.svg?style=for-the-badge)
 
 You can use the [editor on GitHub](https://github.com/ghost7god/ghost7god.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,11 +10,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
+
 ### Header 3
 
 - Bulleted
