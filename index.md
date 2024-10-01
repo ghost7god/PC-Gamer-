@@ -1,4 +1,4 @@
-# THE KNOWLEDGE CAMPAIGN 
+# PC GAMER
 
 ![1K ALL_PRO_SYFER_](https://img.shields.io/badge/1K-ALL_PRO_SYFER_-red.svg?style=for-the-badge)
 
